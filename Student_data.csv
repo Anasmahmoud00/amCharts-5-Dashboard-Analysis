@@ -1,0 +1,31 @@
+Row_num,Major,Student_ID,Name,Phone,Street_Num,Street_Name,B_date,Gender,Email,Faculty_Name
+1,AI,202201501,Hamza Abdelmoreed,1142859850,10,Nile Street,01/10/2004,Male,hamza.fekry@zewailcity,Science
+2,Software,202201602,Aya Ali,1142859851,20,Pyramids Street,15/02/2004,Female,aya.ali@zewailcity,CS
+3,IT,202201203,Reem Samy,1142859852,30,Cairo Street,20/08/2004,Female,reem.samy@zewailcity,CS
+4,AI,202201701,Ahmed Hassan,1142859853,40,Sphinx Street,25/04/2004,Male,ahmed.hassan@zewailcity,Science
+5,Software,202201802,Fatima Mohamed,1142859854,50,Pharaohs Street,30/10/2004,Female,fatima.mohamed@zewailcity,CS
+6,IT,202201903,Omar Ali,1142859855,60,Nile Banks,05/01/2004,Male,omar.ali@zewailcity,CS
+7,AI,202202004,Layla Ibrahim,1142859856,70,Nile View Street,12/03/2004,Female,layla.ibrahim@zewailcity,CS
+8,Software,202202105,Khaled Salah,1142859857,80,Pyramids View Street,18/09/2004,Male,khaled.salah@zewailcity,CS
+9,IT,202202206,Noura Hassan,1142859858,90,Cairo View Street,25/12/2004,Female,noura.hassan@zewailcity,Science
+10,AI,202201306,Fatima Ali,1142859864,90,Maadi Corniche,25/12/2004,Female,fatima.ali@zewailcity,CS
+11,Software,202201307,Youssef Samir,1142859865,100,October City Street,05/08/2004,Male,youssef.samir@zewailcity,CS
+12,IT,202201308,Nourhan Ahmed,1142859866,130,New Cairo Street,28/02/2004,Female,nourhan.ahmed@zewailcity,CS
+13,AI,202101705,Sarah Youssef,1142859854,50,Tahrir Street,30/10/2004,Female,sarah.youssef@zewailcity,CS
+14,Software,202201107,Youssef Ahmed,1142859865,100,October City Street,05/08/2004,Male,youssef.ahmed@zewailcity,CS
+15,AI,202202307,Mohamed Emam,1142859859,100,Maadi View Street,05/07/2004,Male,mohamed.emam@zewailcity,Science
+16,Nanotechnology,202102408,Mona Mahmoud,1142859860,110,Tahrir View Street,30/11/2003,Female,mona.mahmoud@zewailcity,Engineering
+17,Renewable,202102509,Amr Samir,1142859861,120,Giza View Street,15/06/2003,Male,amr.samir@zewailcity,Engineering
+18,CIE,202101821,Eman Farouk,1142859870,260,Sharkia Street,15/07/2003,Female,eman.farouk@zewailcity,Engineering
+19,Nanotechnology,202101715,Sarah Youssef,1142859854,50,Tahrir Street,30/10/2003,Female,sarah.youssef@zewailcity,Engineering
+20,Renewable,202101406,Mona Khaled,1142859855,60,Giza Street,05/01/2003,Male,marwan.khaled@zewailcity,Engineering
+21,Nanotechnology,202102418,Mariam Samir,1141859860,110,Tahrir View Street,########,Female,mariam@zewailcity,Engineering
+22,Renewable,202102519,Amr Farouk,1141859861,120,Giza View Street,11/06/2003,Male,amr.samir@zewailcity,Engineering
+23,CIE,202101021,Haneen Khaled,1141859870,260,Sharkia Street,05/07/2003,Female,Haneen.Khaled@zewailcity,Engineering
+24,Nanotechnology,202100715,Sarah Youssef,1141859854,50,Tahrir Street,30/09/2003,Female,sarah.youssef@zewailcity,Engineering
+25,Renewable,202101416,Mahmoud Khaled,1141859855,60,Giza Street,05/01/2003,Male,Mahmoud.khaled@zewailcity,Engineering
+26,Biomedical,202001304,Ahmed Mustafa,1142859853,40,Maadi Street,25/04/2002,Male,ahmed.mustafa@zewailcity,Science
+27,Nanoscience,202001522,Hussein Mahmoud,1142859871,270,Assiut Street,20/03/2002,Male,hussein.mahmoud@zewailcity,Science
+28,Physics,202001120,Norhan Adel,1142859869,250,Fayoum Street,10/11/2002,Female,norhan.adel@zewailcity,Science
+29,Biomedical,202001404,Layla Ahmed,1142859862,70,Zamalek Street,20/09/2003,Female,layla.ahmed,Science
+30,Physics,202001305,Omar Hassan,1142859863,80,Mohandiseen Street,10/04/2003,Male,omar.hassan,Science
