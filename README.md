@@ -79,9 +79,4 @@ Follow these steps to set up and run the project locally:
 7. **Access the dashboard**:
    Open a web browser and go to `http://127.0.0.1:5000`
 
-## Contributions
-Contributions are welcome! Feel free to submit a pull request or open an issue for any improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License.
 
